@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fph_smc", "fph_smc\fph_smc.csproj", "{8E4142FD-D9BB-43FE-BB22-072B6DE24B23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E4142FD-D9BB-43FE-BB22-072B6DE24B23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E4142FD-D9BB-43FE-BB22-072B6DE24B23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E4142FD-D9BB-43FE-BB22-072B6DE24B23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E4142FD-D9BB-43FE-BB22-072B6DE24B23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABD8AF9A-F332-4BB0-BE7E-4C98AC5BC31D}
+	EndGlobalSection
+EndGlobal
